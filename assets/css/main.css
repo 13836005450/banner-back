@@ -1,0 +1,10 @@
+.container {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: pink;
+    text-align: center;
+}
+h2 {
+    margin: 0 auto;
+}
